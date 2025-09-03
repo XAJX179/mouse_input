@@ -1,5 +1,9 @@
 # MouseInput
 
+[![Documentation](https://github.com/XAJX179/mouse_input/actions/workflows/documentation.yml/badge.svg)](https://github.com/XAJX179/mouse_input/actions/workflows/documentation.yml)
+[![Rubocop](https://github.com/XAJX179/mouse_input/actions/workflows/rubocop.yml/badge.svg)](https://github.com/XAJX179/mouse_input/actions/workflows/rubocop.yml)
+[![Ruby Test](https://github.com/XAJX179/mouse_input/actions/workflows/tests.yml/badge.svg)](https://github.com/XAJX179/mouse_input/actions/workflows/tests.yml)
+
 get mouse click input inside terminal.
 
 > [!NOTE]
