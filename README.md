@@ -6,6 +6,8 @@
 
 get mouse click input inside terminal.
 
+<https://github.com/user-attachments/assets/3268a720-9b85-4cf3-9b98-6c88e26055f3>
+
 > [!NOTE]
 > supported in most - Xfce Terminal, GNOME Terminal, Konsole, Alacritty,
 > Kitty, ITerm2, etc
