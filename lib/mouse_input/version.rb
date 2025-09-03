@@ -3,5 +3,5 @@
 # Mouse Input for terminal
 module MouseInput
   # version following https://semver.org/
-  VERSION = "0.1.0"
+  VERSION = "0.1.1"
 end
